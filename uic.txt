@@ -1,2 +1,6 @@
 i am mcc student
+<<<<<<< HEAD
 i am mca ccd
+=======
+i am mca-aiml
+>>>>>>> mca-aiml
